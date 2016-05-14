@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BBC/BBC.iml" filepath="$PROJECT_DIR$/BBC/BBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ebay/Ebay.iml" filepath="$PROJECT_DIR$/Ebay/Ebay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FaceBook/FaceBook.iml" filepath="$PROJECT_DIR$/FaceBook/FaceBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HealthFirst/HealthFirst.iml" filepath="$PROJECT_DIR$/HealthFirst/HealthFirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Levis/Levis.iml" filepath="$PROJECT_DIR$/Levis/Levis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automation-framework-GroupA.iml" filepath="$PROJECT_DIR$/automation-framework-GroupA.iml" />
+    </modules>
+  </component>
+</project>

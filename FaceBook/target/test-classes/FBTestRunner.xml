@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="face book App running on fire fox Browser">
+
+
+    <parameter name="usecloud" value="Fals"/>
+    <parameter name="userName" value=""/>
+    <parameter name="accessKey" value=""/>
+    <parameter name="os" value="Windows 10"/>
+    <parameter name="url" value="https://www.facebook.com"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserversion" value="40"/>
+
+    <test name="Home Page">
+        <classes>
+            <class name="test.FBwithFF"/>
+        </classes>
+    </test>
+</suite>
